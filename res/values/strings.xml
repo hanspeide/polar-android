@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polar</string>
+
+    <!-- ActionBar -->
+    <string name="actionbar_title_home">Home</string>
+    <string name="user_asks">%s asks</string>
+    <string name="content_description_user_profile_picture">Users profile picture</string>
+    <string name="menu_create">Create</string>
+    <string name="menu_results">Results</string>
+</resources>

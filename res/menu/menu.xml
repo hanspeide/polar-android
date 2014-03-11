@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_create"
+          android:icon="@drawable/ic_create"
+          android:title="@string/menu_create"
+          android:showAsAction="always" />
+    <item android:id="@+id/menu_results"
+          android:icon="@drawable/ic_results"
+          android:title="@string/menu_results"
+          android:showAsAction="always" />
+    <item android:id="@+id/menu_profile"
+          android:title="Profile"
+          android:showAsAction="never" />
+    <item android:id="@+id/menu_settings"
+          android:title="Settings"
+          android:showAsAction="never" />
+    <item android:id="@+id/menu_about"
+          android:title="About"
+          android:showAsAction="never" />
+</menu>
